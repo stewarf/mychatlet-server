@@ -1,7 +1,8 @@
 ***MyChatLet Server***
 
-**Configuraci髇**
-Disponer de la siguiente informaci髇 y definirlo en el archivo de configuraci髇 *MyChatLetServer.ini*
+**Configuraci贸n**
+
+Disponer de la siguiente informaci贸n y definirlo en el archivo de configuraci贸n *MyChatLetServer.ini*
 
 - Hostname (localhost)
 - Puerto
@@ -10,13 +11,13 @@ Disponer de la siguiente informaci髇 y definirlo en el archivo de configuraci髇 
 - Password
 
 
-**Ejecuci髇**
+**Ejecuci贸n**
 
-Opci髇 1:
+Opci贸n 1:
 
 *java -jar mychatlet-server.jar*
 
-Opci髇 2: usando el archivo por lotes
+Opci贸n 2: usando el archivo por lotes
 
 *mychatlet-server-run.bat*
 
@@ -25,12 +26,12 @@ Opci髇 2: usando el archivo por lotes
 
 */C*: Desplegar la lista de clientes activos en la instancia correspondiente
 
-*/H date*: Despliega el historial de pl醫icas generado seg鷑 la fecha ingresada
+*/H date*: Despliega el historial de pl谩ticas generado seg煤n la fecha ingresada
 
-*/T*: Despliega hora y fecha en que inicio sesi髇 el cliente
+*/T*: Despliega hora y fecha en que inicio sesi贸n el cliente
 
-*/L*: Despliega el historial de conexiones del cliente en cuesti髇
+*/L*: Despliega el historial de conexiones del cliente en cuesti贸n
 
-*/E*: Termina la sesi髇 del cliente actual.
+*/E*: Termina la sesi贸n del cliente actual.
 
-*/PM user private-text*: Env韆 un mensaje privado al cliente mencionado
+*/PM user private-text*: Env铆a un mensaje privado al cliente mencionado
