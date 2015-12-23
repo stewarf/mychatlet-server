@@ -1,0 +1,1 @@
+java -jar "mychatlet-server.jar"
